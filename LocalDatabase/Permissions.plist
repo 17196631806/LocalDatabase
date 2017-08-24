@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>permissionValue</key>
+		<string>0</string>
+		<key>moduleSn</key>
+		<string>modify</string>
+		<key>systemSn</key>
+		<string>attendance</string>
+	</dict>
+	<dict>
+		<key>systemSn</key>
+		<string>document</string>
+		<key>moduleSn</key>
+		<string>check</string>
+		<key>permissionValue</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>systemSn</key>
+		<string>schedule </string>
+		<key>moduleSn</key>
+		<string>modify</string>
+		<key>permissionValue</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>systemSn</key>
+		<string>assets</string>
+		<key>moduleSn</key>
+		<string>check</string>
+		<key>permissionValue</key>
+		<string>0</string>
+	</dict>
+	<dict>
+		<key>systemSn</key>
+		<string>assets</string>
+		<key>moduleSn</key>
+		<string>check</string>
+		<key>permissionValue</key>
+		<string>0</string>
+	</dict>
+</array>
+</plist>
